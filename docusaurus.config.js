@@ -281,6 +281,11 @@ const config = {
 							"position": "right"
 						},
 						{
+							"label": "Product page",
+							"href": "https://dhtmlx.com/docs/products/dhtmlxPivot/",
+							"position": "right"
+						},
+						{
 							"label": "Examples",
 							"href": "https://snippet.dhtmlx.com/mhymus00?tag=pivot", 
 							"position": "right"
